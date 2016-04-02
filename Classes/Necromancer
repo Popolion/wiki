@@ -1,0 +1,24 @@
+##Necromancer
+###Corpse Tower
+Invoque une tour constituée de corps. La tour attaque alors les ennemis alentours.
+
+###Create Shoggoth
+Invoque le Shoggoth. Ses stats dépendront des cartes utilisés dans le Necronomicon, augmentant de 10% par niveau de carte. L'attaque et la défense du Shoggoth sont influencés par votre [INT] et [SPR] respectivement.Seules des cartes de type [Animal], [Plant] et [Mutant] peuvent être utilisées dans le Necronomicon.
+
+###Dirty Pole
+Invoque un totem de corps devant vous. Les ennemis près du totem seront affectés par [Decay], réduisant leur résistance aux attaques physiques à distance.
+
+###Disinter
+Collecte les corps des ennemis morts alentours.
+
+###Flesh Cannon
+Tire des corps dans la zone selectionnée
+
+###Flesh Hoop
+Forme une barrière de corps pour vous protéger des attaques.
+
+###Gather Corpse
+Collecte le corps d'un ennemi
+
+###Raise Dead
+Invoque un soldat squelette. Il vous suivra et engagera le combat.

@@ -1,0 +1,22 @@
+## Fencer : 
+
+### Attaque Composée 
+Frappe d'un coup d'estoc l'ennemi devant vous.
+
+### Attaque Coquille 
+Attaque un ennemi avec la garde de la rapière. L'ennemi touché perdra par la suite toute défense contre les attaques de type [Pierce].
+
+### Esquive Toucher 
+Délivre une attaque tout en esquivant celles de l'ennemi.
+
+### Flanconnade 
+Performe une attaque haute avec avec votre rapière. Cette technique vous permet de parer une attaque ennemi.
+
+### Lunge 
+Vous utilisez une position basse pour atteindre l'ennemi. Votre taux d'[Evasion] augmente et l'ennemi devient plus vulnérable aux attaques [Slash]
+
+###Preparation 
+Vous vous mettez en position de parade. La prochaine attaque [Pierce] que vous utiliserez infligera 2 fois plus de dégâts.
+
+###Sept Etoiles 
+Enchaine les attaques d'estoc sur un ennemi.

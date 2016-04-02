@@ -1,0 +1,18 @@
+##Fletcher
+###Barbed Arrow
+Tire une flèche à pointe barbelée. Le nombre de coups infligés dépend du type d'armure de la cible.
+
+###Bodkin Point
+Tire une flèche hautement pénétrante. Réduit la défense des ennemis touchés et nullifie toute protection magique
+
+###Broadhead
+Tire une flèche à pointe large. Inflige [Bleeding] à la cible.
+
+###Crossfire
+Tire une flèche qui provoque une explosion en forme de croix.
+
+###Divine Machine Arrow
+Tire une flèche explosive. Une fois sa cible atteinte, la flèche explose après un moment, blessant les ennemis autour.
+
+###Magic Arrow
+Tire une flèche magique qui incendie la zone. Les ennemis présents dans la zone subissent des dégâts.

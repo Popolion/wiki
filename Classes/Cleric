@@ -1,0 +1,22 @@
+##Cleric :
+
+###Cure 
+Crée un cercle magique qui guérit les altérations d'état de niveau 1 pour les alliés, et blesse les ennemis. Ne peut affecter les ennemis volants.
+
+###Deprotected zone 
+Crée un cercle magique qui diminue graduellement la défense des ennemis à l'intérieur.
+
+###Divine Might
+Procure un [buff], à vous et votre party, qui augmente temporairement le niveau du skill utilisé de 1.
+
+###Fade
+Efface votre présence aux yeux des monstres. Ils stopperont alors leurs attaques.
+
+###Guardian Saint 
+Crée un cercle magique pouvant affecter un allié. Une fois consommé, l'allié prendra des dégâts à votre place.
+
+###Heal 
+Crée un cercle magique devant vous qui guérit vos alliés et blesse les ennemis. Ne peut pas blesser les ennemis volants. La quantité maximum de HP récupéré dépend de la quantité maximale de HP de la cible.
+
+###Safety Zone 
+Crée un cercle magique dans lequel vous et vos alliés êtes protégés des attaques.

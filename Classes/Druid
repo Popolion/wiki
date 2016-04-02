@@ -1,0 +1,19 @@
+##Druid : 
+
+###Carnivory 
+L'herbe dans la zone ciblée attaque l'ennemi. Le sort se lancera dans un [Chortasmata] existant, le sort se lancera sur vous s'il n'y en a pas.
+
+###Chortasmata 
+Fais temporairement pousser de l'herbe dans la zone selectionnée. Les monstres dans la zone sont traités comme des monstres de type [Plant]
+
+###Shape Shifting 
+Vous métamorphose en un monstre devant vous. Limité au monstre [Animal], [Plant], [Insect].
+
+###Sterea Trohf 
+L'herbe dans la zone ciblée vous protège vous et vos alliés. Le sort se lancera dans un [Chortasmata] existant, le sort se lancera sur vous s'il n'y en a pas.
+
+###Telepath 
+Pénètre l'esprit d'un ennemi pour en prendre le contrôle.
+
+###Transform 
+Vous transforme en le dernier monstre sur lequel vous avec utilisé [Shape Shifting].

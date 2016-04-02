@@ -1,0 +1,27 @@
+##Highlander
+###Cartar Stroke
+Rassemble vos forces et écrase votre arme au sol, blessant tout les ennemis dans la zone.
+
+###Cross Guard
+Prends une position défensive, utilisant votre arme pour bloquer. Les ennemis ainsi bloqués deviennent vulnérables aux attaques [Pierce]
+
+###Crosscut
+Attaque en forme de croix sur un ennemi. Inflige [Bleeding
+
+###Crown
+Assome un ennemi avec votre arme. L'ennemi perd temporairement en [INT] et [SPR]
+
+###Moulinet
+Inflige une série de coups devant vous.
+
+###Skull Swing
+Frappe et pousse un ennemi sur le côté en utilisant le plat de votre épée. L'ennemi subit [Armor Break].
+
+###Skyliner
+Tranche l'ennemi sur le côté. Inflige des dégâts supplémentaires aux ennemis atteint de [Bleeding]
+
+###Vertical Slash
+Frappe un coup vertical descendant. Inflige des dégâts supplémentaires sur les monstres [Large] et [Medium] dépendant de la quantité de défense réduite par [Skull Swing]. Des dégâts additionnels seront infligés selon la quantité d'effets négatifs dont l'ennemi est affligé.
+
+###Wagon Wheel
+Frappe de bas en haut, projetant votre ennemi dans les airs.

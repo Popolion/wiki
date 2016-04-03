@@ -1,0 +1,21 @@
+##Quarrel Shooter
+###Deploy Pavise
+Déploie un bouclier au sol pour vous protéger des attaques. Les ennemis sans cible attaqueront le bouclier.
+
+###Rapid Fire
+Prépare plusieurs flèches, puis les tirent rapidement.
+
+###Running Shot
+Vous permet d'attaquer en vous déplaçant rapidement. Vous gagnez de la vitesse d'attaque et des dégâts bonus quand vous utilisez des attaques basiques.
+
+###Scatter Caltrops
+Lance des clous d'acier aux sol qui blessent les ennemis marchant dessus.
+
+###Stone Picking
+Ramasse des pierres pour Stone Shot.
+
+###Stone Shot
+Tire une balle de pierre pour repousser l'ennemi. Peut [Stun] la cible.
+
+###Teardown
+Démolit les obstacles devant vous, infligeant des dégâts aux ennemis.

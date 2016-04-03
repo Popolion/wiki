@@ -1,0 +1,18 @@
+##Plague Doctor
+###Beak Mask
+Equipe votre masque-bec. L'extrémité du masque contient des drogues qui permettent d'être immunisés aux altérations d'état de niveau 2 ou moins.
+
+###Bloodletting
+Pratique une saignée sur vous ou un allié pour vous protéger d'autres altérations d'états de niveau 2 ou moins.
+
+###Fumigate
+Enfume la zone d'un antidote qui vous guérit, vous et vos alliés, d'altérations d'états de niveau 3 ou moins.
+
+###Healing Factor
+Crée un cercle magique qui octroie temporairement un facteur régénérant. Lorsque vous subissez des dégâts vous serez guéris à hauteur de vos [HP] au moment de l'activation du cercle.
+
+###Incineration
+Incinère les ennemis affectés par une altération d'état. La durée de l'incinération dépend du nombre d'altérations dont ils sont victimes.
+
+###Pandemic
+Propage les altérations d'états des cibles sur les ennemis alentours.

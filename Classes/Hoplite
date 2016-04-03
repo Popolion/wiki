@@ -1,0 +1,21 @@
+##Hoplite
+###Finestra 
+Change votre position de combat. Augmente votre [Critical Rate] et votre [Block] mais réduit votre [Evasion]
+
+### Long Stride 
+Plonge sur la zone ciblée, infligeant des dégâts aux ennemis.
+
+###Pierce 
+Une attaque perçante dont le nombre de coups dépend de la taille de l'ennemi touché. Un coup pour les monstres [Small], 2 pour les [Medium] et 3 pour les [Large].
+
+###Spear Lunge
+Transperce l'ennemi le rendant plus vulnérable aux attaques de type [Pierce]
+
+###Spear Throw 
+Jette votre lance sur un ennemi. La lance restera dans le sol ou vous l'avez lancé et vous subirez un malus d'attaque tant que vous ne l'aurez pas ramassée. L'arme vous revient automatiquement au bout d'un certain temps.
+
+###Stabbing 
+Effectue une multitude d'attaques perçantes.
+
+###Synchro Thrusting
+Utilise votre lance et votre bouclier pour attaquer l'ennemi. Inflige des dégâts supplémentaires quand une attaque est parée.

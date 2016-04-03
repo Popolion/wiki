@@ -1,0 +1,21 @@
+##Psychokino
+###Gravity Pole
+Crée un champ gravitationnel en ligne devant vous qui attire les ennemis en son centre.
+
+###Magnetic Force
+Crée une zone magnétique qui attire les ennemis, leur infligeant des dégâts.
+
+###Psychic Pressure
+Concentre votre pouvoir au bout de vos doigts pour infliger des dommages continues devant vous.
+
+###Raise
+Soulève les ennemis proches dans les airs. Les ennemis affectés seront alors temporairement traités comme des type [Flying]
+
+###Swap
+Echange votre position avec celle d'un ennemi.
+
+###Telekinesis
+Utilise la télékinésie pour capturer une cible et la lancer dans les airs. Des dégâts sont infligés à chaque fois que vous déplacez la cible capturée.
+
+###Teleportation
+Vous téléporte vers une destination aléatoire.

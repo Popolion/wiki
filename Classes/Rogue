@@ -1,0 +1,24 @@
+##Rogue
+###Backstab
+Une double attaque avec un haut taux de critiques.
+
+###Burrow
+Vous vous cachez sous terre. Dans cet état, vous pourrez attaquer mais pas vous déplacer.
+
+###Capture
+Vole le piège ou cercle magique de l'ennemi. Vous pourrez alors utiliser la compétence capturée.
+
+###Evasion
+Augmente votre evasion.
+
+###Feint
+Feinte un ennemi pour le faire baisse sa garde. Il perd temporairement de l'evasion.
+
+###Lachrymator
+Envoie un gaz lacrymogène sur la zone. Les cibles à l'intérieur sont alors [Blind].
+
+###Sneak Hit
+Augmente votre taux de critiques quand vous frappez par derrière.
+
+###Vendetta
+Si la cible meurt de cette attaque, elle explose, offrant alors un bonus de STR aux membres de votre party.

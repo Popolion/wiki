@@ -1,0 +1,21 @@
+##Paladin
+###Barrier
+Crée une barrière de protection qui repousse les ennemis et les empêches d'entrer. La défense magique des alliés à l'intérieur augmente.
+
+###Conversion
+Crée un cercle magique pouvant convertir les ennemis à votre cause.
+
+###Conviction
+Une attaque pour purifier les traitres. Les résistances aux élements [Fire], [Ice], [Lightning] et [Poison] de la victime seront réduit.
+
+###Resist Elements
+Augmente temporairement les résistances aux éléments [Fire], [Ice], [Lightning], [Poison] et [Earth] de votre équipe. La protection a une chance d'annuler les attaques de ces éléments. Réduit la défense magique des ennemis alentours lors du lancement du sort.
+
+###Restoration
+Vous activer une aura qui augmente la régénération des [HP] de vos alliés proches.
+
+###Smite
+Ecrase l'ennemi d'une puissante attaque. Les dégâts sont doublés sur les ennemis de type [Mutant] et [Devil]
+
+###Turn Undead
+Tue les monstres [Devil] et [Mutant] avec une faible chance.

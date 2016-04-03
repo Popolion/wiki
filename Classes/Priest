@@ -1,0 +1,27 @@
+##Priest
+###Aspersion
+Asperge d'eau bénite qui augmente temporairement la défense. Inflige des dégâts quand utilisé sur un ennemi.
+
+###Blessing
+Une bénédiction qui procure des dommages supplémentaires sur vos attaques et celles de vos alliés.
+
+###Exorcise
+Crée un cercle d'exorcisme qui inflige des dégâts aux ennemis à l'intérieur, puis continue de les blesser en continu.
+
+###Mass Heal
+Restaure instantanément vos hp et ceux des alliés devant vous.
+
+###Monstrance
+Crée un cercle magique qui augmente la [DEX] des alliés et diminue à la fois [Evasion] et défense physique pour les ennemis. Les alliés n'ont pas besoin d'entrer dans le cercle pour profiter de l'effet.
+
+###Resurrection
+Ressucite un allié tombé au combat.
+
+###Revive
+Protège, une fois, votre party de la mort.
+
+###Sacrament
+Confère des dégâts additionnels [Holy] à votre équipe et vous.
+
+###Stone Skin
+Augmente le taux de [Block] de votre équipe et vous.

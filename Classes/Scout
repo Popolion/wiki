@@ -1,0 +1,21 @@
+##Scout
+###Camouflage
+Vous vous cachez dans un baril vide. Dans cet état vous êtes protégé d'un certain nombre d'attaques physiques.
+
+###Cloaking
+Devient temporairement camouflé, caché de la vision ennemie. Vous perdez votre camouflage si vous attaquez ou sautez.
+
+###Flare Shot
+Tire une flèche explosive. En atteignant la zone ciblée, la flamme se fragmente et blesse les ennemis alentours.
+
+###Flu Flu
+Tire une flèche musicale sur la cible. Les victimes sont atteintes l'altération d'état [Fear]
+
+###Perspective Distortion
+Crée une distortion de l'espace permettant aux alliés d'attaquer au delà de leur portée initiale.
+
+###Scan
+Révèle les ennemis et objets cachés.
+
+###Split Arrow
+Tire une flèche qui, en touchant la cible, rebondit sur 2 cibles proches.

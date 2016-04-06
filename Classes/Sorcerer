@@ -1,0 +1,30 @@
+##Sorcerer
+###Attack Ground
+Ordonne au démon invoqué d'attaquer la zone indiquée.
+
+###Desmodus
+Invoque des chauves-souris vampires qui attaquent les ennemis.
+
+###Evocation
+Attaque les ennemis avec un démon invoqué à partir de la seconde carte de votre grimoire.
+
+###Hold
+Ordonne au démon d'attendre et garder la zone désignée.
+
+###Morph
+Transforme le démon invoqué de votre grimoire en un autre démon basé sur la seconde carte de votre Grimoire, tout en gardant les statistiques du démon précédent.
+
+###Riding
+Prend le contrôle du démon invoqué en montant dessus.
+
+###Summon Familiar
+Invoque un familier. Il foncera sur l'ennemi que vous attaqué, ou qui vous attaque, et se fera exploser.
+
+###Summon Salamion
+Invoque le démon de feu Salamion. Il suit sont maitre et attaque les ennemis.
+
+###Summon Servant
+Invoque un serviteur. Le serviteur vous octroie des effets bénéfiques en vous suivant.
+
+###Summoning
+Invoque un démon basé sur la carte placée dans votre grimoire. L'attaque et la défense du démon dépendent de votre INT et SPR respectivement. Les statistiques du démon augmente de 10% par étoiles sur la carte. Seules des cartes de types [Demon] peuvent être placées dans le grimoire.

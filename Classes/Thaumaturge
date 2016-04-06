@@ -1,0 +1,21 @@
+##Thaumaturge
+###Reversi
+Prend le contrôle d'un cercle magique ennemi.
+
+###Shrink Body
+Rapetisse l'ennemi.
+
+###Swell Body
+Agrandit un ennemi. Ses Hp augmentent aussi et les récompenses d'objets et xp sont doublées.
+
+###Swell Brain
+Augmente la taille de la tête de vos alliés, améliorant leur INT.
+
+###Swell Left Arm
+Augmente la taille du bras gauche, offre un bonus d'attaque.
+
+###Swell Right Arm
+Augmente la taille du bras droit, offre un bonus d'attaque si vous êtes équipé d'un bouclier ou une arme secondaire.
+
+###Transpose
+Echange votre INT et votre CON.

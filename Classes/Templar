@@ -1,0 +1,16 @@
+##Templar
+###Battle Orders
+Augmente temporairement la STR des membres de la guilde proche du Guild master. L'effet disparait si le Guild Master est trop loin.
+
+###Build Guild Tower
+(C'était du coréen j'fais avec ce que je peux)
+Permet l'utilisation des fonctionnalités de la tour de guilde. Les tours de guilde peuvent être placés en utilisant le skill.
+
+###Reduce Craft Time
+Plante un drapeau qui réduit le temps de crafting des membres de guildes proches. Ne peut être utilisé que proche d'une tour de guilde.
+
+###Summon Guild Member
+Invoque un membre de la guilde à votre position. Vous avez besoin de la permission du membre.
+
+###Warp to Guild Member
+Vous téléporte à la position d'un membre de guilde. Vous ne pouvez pas rejoindre un allié dans un donjon instancié.

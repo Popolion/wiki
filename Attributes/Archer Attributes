@@ -1,0 +1,62 @@
+Cloth Mastery : Magic
+Vous permet de porter des armures de type [Cloth]. Lorsque vous êtes équipés de 3 pièces au moins de [Cloth], votre max SP augmente et les dégâts magique subis diminuent de 5%. Lorsque vous avez 4 pièces d'armure [Cloth], votre défense magique augmente et les dégâts magique subis diminuent d'encore 10%.
+
+Full Draw : Decreased Defense
+Réduit la défense physiques des ennemis atteints de 10% par niveau d'attribut.
+
+Full Draw : Enhance
+Augmente les dégâts de [Full Draw] de 1% par niveau d'attribut.
+
+Full Draw : Increased Knockback
+Augmente la distance de recul de [Full Draw] de 50.
+
+Heavy Shot : Enhance
+Augmente les dégâts de [Heavy Shot] de 1% par niveau d'attribut.
+
+Increased Maximum Buff Count
+Augmente le nombre de buffs maximum de 1.
+
+Kneeling Shot : Critical Rate 
+Augmente votre taux de critiques en utilisant [Kneeling Shot] de 2% par niveau d'attribut.
+
+Kneeling Shot : Enhance
+Augmente les dégâts de [Kneeling Shot] de 1 par niveau d'attribut.
+
+Leather Mastery : Dexterity
+Vous permet d'équiper des armures de type [Leather]. Lorsque vous êtes équipés de 3 pièces au moins de [Leather], votre evasion augmente. Lorsque vous avez 4 pièces d'armure [Leather], votre Evasion de l'attribut augmente encore de 50%.
+
+Multi Shot : Critical
+Augmente le taux de critiques de [Multi Shot] de 1,5% par niveau d'attribut.
+
+Multi Shot : Enhance 
+Augmente les dégâts de [Multi Shot] de 1% par niveau d'attribut.
+
+Multi Shot : Quick Charging
+Diminue de moitié le temps de charge de [Multi Shot]
+
+Oblique Shot : Enhance
+Augmente les dégâts de [Oblique Shot] de 1% par niveau d'attribut.
+
+Oblique Shot : Slow
+Les ennemis touchés par [Oblique Shot] lorsque [Swift Step] est actif ont 5% de chance par niveau d'attribut d'être affecté par [Slow] pendant 7 secondes.
+
+One-handed Bow Mastery : Ignore Defense
+Lorsque vous attaquez avec un [One-handed Bow], vous ignorez 5% de la défense ennemie par niveau d'attribut.
+
+Plate Mastery : Defense
+Vous permet d'équiper des armures de type [Plate]. Lorsque vous êtes équipés de 3 pièces au moins de [Plate], votre maximum HP augmente et les dégâts physiques subis diminuent de 5%. Lorsque vous avez 4 pièces d'armure [Plate], votre maximum Stamina et les dégâts physiques subies diminuent encore de 10%.
+
+Swift Step : Critical Rate
+Augmente votre taux de critiques de 5% par niveau d'attribut lorsque [Swift Step] est actif.
+
+Swift Step : Including Party Members
+Applique les effets de [Swift Step] aux membres de votre party. (Les effets ne s'appliquent que si l'attribut est sur ON)
+
+Twin Arrows : Enhance 
+Augmente les dégâts de [Twin Arrows] de 1% par niveau d'attribut.
+
+Two-handed Bow Mastery : Anti-Air
+Augmente les dégâts aux ennemis volants de 20% par niveau d'attribut lorsque vous êtes équipé d'un [Two-handed Bow]
+
+Weapon Swap
+Ajoute un raccourci pour changer d'armes.

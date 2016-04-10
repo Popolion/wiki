@@ -1,0 +1,41 @@
+Companion : Riding
+Vous pouvez chevaucher votre monture.
+
+Doom Spike
+[Doom Spike] ne fera plus tomber les ennemis au sol. (Ne s'applique que si l'attribut est sur ON).
+
+Doom Spike : Enhance
+Augmente les dégâts de [Doom Spike] de 1% par niveau d'attribut.
+
+Earth Wave : Earth Property
+Change la propriété de [Earth Wave] en propriété [Earth].
+
+Earth Wave : Enhance
+Augmente les dégâts de [Earth Wave] de 1% par niveau d'attribut.
+
+Earth Wave : Remove Knockdown
+[Earth Wave] ne fera plus tomber les ennemis au sol. (Ne s'applique que si l'attribut est sur ON).
+
+Impaler : Enhance
+Augmente les dégâts de [Impaler] de 1% par niveau d'attribut.
+
+Rush : Enhance
+Augmente les dégâts de [Rush] de 1% par niveau d'attribut.
+
+Rush : Stun
+Les ennemis touchés par [Rush] ont 1% de chance par niveau d'attribut d'être [Stun] pendant 2 secondes.
+
+Steed Charge :  Critical
+Applique des dégâts critiques lorsque vous lancez [Steed Charge] sur un ennemi atteint par [Slow]
+
+Steed Charge : Enhance
+Augmente les dégâts de [Steed Charge] de 1% par niveau d'attribut.
+
+Steed Charge : Remove Knockdown
+[Steed Charge] ne fera plus tomber les ennemis au sol. (Ne s'applique que si l'attribut est sur ON).
+
+Two-handed Spear Mastery : Penetration
+Augmente votre [Block Penetration] de 10% par niveau d'attribut lorsque vous êtes équipés de [Two-handed Spear]
+
+Use Two-handed Spears
+Vous permet d'équiper des [Two-handed Spears].

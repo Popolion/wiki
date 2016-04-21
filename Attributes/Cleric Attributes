@@ -1,0 +1,53 @@
+Blunt Mastery : Stun
+Inflige [Stun] avec 2% de chance par niveau d'attribut lorsque vous effectuez une attaque basique avec une masse.
+
+Cloth Mastery : Magic
+Vous permet de porter des armures de type [Cloth]. Lorsque vous êtes équipés de 3 pièces au moins de [Cloth], votre max SP augmente et les dégâts magique subis diminuent de 5%. Lorsque vous avez 4 pièces d'armure [Cloth], votre défense magique augmente et les dégâts magique subis diminuent d'encore 10%.
+
+Cure : Damage Interval
+Réduit de 0,2 secondes l'intervalle de [Cure]
+
+Cure : Enhance
+Augmente les dégâts de [Cure] de 1% par niveau d'attribut.
+
+Deprotected Zone : Enhance
+Augmente la pénalité de défense de [Deprotected Zone] de 1 par niveau d'attribut. Cet attribut s'applique après le compte des stacks.
+
+Deprotected Zone : Retention Time
+Augmente la durée de [Deprotected Zone] d'une seconde par niveau d'attribut.
+
+Deprotected Zone : Sword Attack
+Attaquer un ennemi dans [Deprotected Zone] avec une épée leur infligera [Weakened Defense]. Peut être stacké 10 fois.
+
+Divine Might : Devil-type Damage
+Inflige 100% de votre attaque magique aux monstres de types Devil proches lors de l'utilisation de [Divine Might]
+
+Guardian Saint : Decreased Damage
+Réduit les dégâts subis par l'utilisation de [Guardian Saint] de 5% par niveau d'attribut.
+
+Heal : Creating Extra
+Ajoute 2% de chance par niveau d'attribut de vous soigner vous même lors de l'utilisation de [Heal]
+
+Heal : Enhance
+Augmente les dégâts de [Heal] de 1% par niveau d'attribut.
+
+Heal : Remove Damage
+[Heal] n'infligera ni ne réagira plus aux ennemis.
+
+Increased Maximum Buff Count
+Augmente le nombre de buffs maximum de 1.
+
+Leather Mastery : Dexterity
+Vous permet d'équiper des armures de type [Leather]. Lorsque vous êtes équipés de 3 pièces au moins de [Leather], votre evasion augmente. Lorsque vous avez 4 pièces d'armure [Leather], votre Evasion de l'attribut augmente encore de 50%.
+
+Plate Mastery : Defense
+Vous permet d'équiper des armures de type [Plate]. Lorsque vous êtes équipés de 3 pièces au moins de [Plate], votre maximum HP augmente et les dégâts physiques subis diminuent de 5%. Lorsque vous avez 4 pièces d'armure [Plate], votre maximum Stamina et les dégâts physiques subies diminuent encore de 10%.
+
+Safety Zone : Block Count
+Augmente le nombre d'attaques bloquées par [Safety Zone] de 1 par niveau d'attribut.
+
+Safety Zone : Increased Range
+Augmente la zone dans laquelle la protection est appliquée de 15.
+
+Weapon Swap
+Ajoute un raccourci pour changer d'armes.

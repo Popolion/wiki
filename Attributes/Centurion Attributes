@@ -1,0 +1,14 @@
+Crane Wing : Change Formation
+Change la forme de la formation [Crane Wing]. La nouvelle forme attire plus les ennemis
+
+Phalanx : Slow
+Inflige [Slow] lorsqu'une attaque ennemie est bloquée en formation [Phalanx]. Augmente la durée de [Slow] de 4 secondes par niveau d'attributs.
+
+Schiltrong : Healing Time
+Réduit les intervalles de régénération HP de 2 secondes par niveau d'attribut en formation [Schiltron].
+
+Tercio : Change Formation
+Change la forme de la formation [Tercio]. Les positions numéro 4 et 6 seront éloignées du centre.
+
+Testudo : Movement
+Diminue la vitesse de déplacement de 5% par niveau d'attribut en formation [Testudo]

@@ -1,0 +1,23 @@
+Backmasking : Confusion
+Les ennemis provoqués après utilisation de [Backmasking] seront affligés de [Confusion] pendant 6 secondes. La durée de [Confusion] augmentera à 8 secondes si l'attribut est niveau 2.
+
+Haste : Increased Evasion
+Augmente votre esquive de 20 par niveau d'attribut pendant [Haste].
+
+Quicken : Critical Rate
+Augmente le bonus de taux de critiques de [Quicken] de 5% et diminue l'esquive de 2% par niveau d'attribut.
+
+Revive : Two
+Lorsqu'un ennemi affecté par [Reincarnate] est ramené à la vie, il y a 1% de chance par niveau d'attribut que deux ennemis apparaissent.
+
+Slow : Critical Resistance
+Les ennemis affectés par [Slow] auront leur résistance aux attaques critiques diminuée d'une valeur égale à 15% de l'INT du lanceur.
+
+Slow : Decreased Nullification
+Donne une chance de nullifier l'attaque d'un ennemi [Slow] égale à 6% par niveau d'attribut.
+
+Stop : Control Boss Monster
+[Stop] peut maintenant être utilisé sur les boss, mais une fois libéré il ne pourra plus être stoppé.
+
+Stop : Decreased SP
+Diminue le cout en SP de [Stop] de 40.
